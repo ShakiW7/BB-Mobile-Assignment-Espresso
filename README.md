@@ -38,3 +38,9 @@ Make sure you have install fallowing to run the project:
 <img width=600 src="./screenshots/firebase_pass_report.png"/>
 <img width=600 src="./screenshots/firebase_fail_report.png"/>
 <img width=600 src="./screenshots/firebase_fail_video.png"/>
+
+### Run the project in Local Machine
+- Change the target to `User the device/snapshot drop down`
+
+**Bonus Question:**
+I fixed the map loading issue by adding a API Key ` android:value="AIzaSyA5lZ0zQETnglJmiGLKE17SMyl1Gmf4-dM"/>`
